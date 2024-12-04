@@ -1,2 +1,2 @@
-# OPTMatching
-OPT Project's Taxi-User Matching Service Server
+# Cabsy-Matching
+Cabsy Project's Taxi-User Matching Service Server
